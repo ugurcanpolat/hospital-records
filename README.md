@@ -18,8 +18,7 @@ Records with the same branchName must be ordered by polyclinicNumber.
 
 Commands:
 P: Prints all the patient records registered in the hospital.
-B: Searches patients by branch. (In this command, the program should ask for the
-branch name, then print all matching records.)
+B: Searches patients by branch. (In this command, the program should ask for the branch name, then print all matching records.)
 C: Searches patients by polyclinic. (In this command, the program should ask for the
 polyclinic number, then print all matching records.)
 I: Inserts the record as entered by the user. (In this command, the program should
