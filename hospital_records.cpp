@@ -1,7 +1,5 @@
 /* @Author
  * Student Name: Ugurcan Polat
- * Student ID : 150140117
- * Date: 18.10.2016
  */
 
 #include "functions.cpp"
